@@ -1,10 +1,6 @@
+# UBC-OCEAN Image Classification using Keras and JAX
 
 
-## README.md
-
-# Project Title
-
-UBC-OCEAN Image Classification using Keras and JAX
 
 ## Overview
 
