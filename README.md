@@ -1,8 +1,4 @@
-Based on the initial cells of your notebook, I have gathered some context about the project. It appears to involve a machine learning model training process using libraries like Keras, TensorFlow, and JAX, and seems related to an image-based dataset from UBC-OCEAN.
 
-Here is a draft for your `README.md` file and LinkedIn project description:
-
----
 
 ## README.md
 
