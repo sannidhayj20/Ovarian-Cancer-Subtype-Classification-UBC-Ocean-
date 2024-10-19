@@ -14,7 +14,7 @@ This project focuses on developing a machine learning model for classifying imag
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ubc-ocean-image-classification.git
+   git clone https://github.com/sannidhayj20/Ovarian-Cancer-Subtype-Classification-UBC-Ocean-.git
    cd ubc-ocean-image-classification
    ```
 
@@ -76,37 +76,4 @@ This project was inspired by the UBC-OCEAN dataset and utilizes various machine 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-## LinkedIn Project Description
-
-### UBC-OCEAN Image Classification using Keras and JAX
-
-**Project Overview:**
-
-Developed a machine learning model to classify images from the UBC-OCEAN dataset using Keras with JAX backend. The project involved data preprocessing, model configuration, training, and evaluation.
-
-**Skills Demonstrated:**
-
-- **Data Preprocessing:** Utilized pandas and OpenCV for data handling and image processing.
-- **Model Training:** Configured and trained a neural network model using Keras and JAX for enhanced performance.
-- **Reproducibility:** Ensured reproducibility by setting seeds and maintaining consistent training configurations.
-- **Performance Evaluation:** Assessed model performance using various metrics and visualizations with seaborn and matplotlib.
-- **Deep Learning Frameworks:** Leveraged TensorFlow, Keras, and JAX for model development and training.
-
-**Key Technologies:**
-
-- Python
-- Keras
-- JAX
-- TensorFlow
-- Pandas
-- OpenCV
-- Seaborn
-- Matplotlib
-
-**Project Link:** [GitHub Repository](https://github.com/yourusername/ubc-ocean-image-classification)
-
----
-
-Feel free to adjust any details to better fit your project specifics and preferences.
